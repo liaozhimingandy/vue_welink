@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkweb"]=self["webpackChunkweb"]||[]).push([[586],{2586:function(n,e,r){r.r(e),r.d(e,{default:function(){return s}});var u=r(3396);function t(n,e){return(0,u.wg)(),(0,u.iD)("h1",null,"欢迎注册")}var c=r(89);const a={},f=(0,c.Z)(a,[["render",t]]);var s=f}}]);
+//# sourceMappingURL=586.ae469a1c.js.map
